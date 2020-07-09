@@ -1,0 +1,17 @@
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\SupportBank.exe
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\SupportBank.deps.json
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\SupportBank.runtimeconfig.json
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\SupportBank.runtimeconfig.dev.json
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\SupportBank.dll
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\SupportBank.pdb
+C:\Work\Training\SupportBank\SupportBank\obj\Debug\netcoreapp3.1\SupportBank.csprojAssemblyReference.cache
+C:\Work\Training\SupportBank\SupportBank\obj\Debug\netcoreapp3.1\SupportBank.AssemblyInfoInputs.cache
+C:\Work\Training\SupportBank\SupportBank\obj\Debug\netcoreapp3.1\SupportBank.AssemblyInfo.cs
+C:\Work\Training\SupportBank\SupportBank\obj\Debug\netcoreapp3.1\SupportBank.csproj.CoreCompileInputs.cache
+C:\Work\Training\SupportBank\SupportBank\obj\Debug\netcoreapp3.1\SupportBank.dll
+C:\Work\Training\SupportBank\SupportBank\obj\Debug\netcoreapp3.1\SupportBank.pdb
+C:\Work\Training\SupportBank\SupportBank\obj\Debug\netcoreapp3.1\SupportBank.genruntimeconfig.cache
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Work\Training\SupportBank\SupportBank\obj\Debug\netcoreapp3.1\SupportBank.csproj.CopyComplete
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
